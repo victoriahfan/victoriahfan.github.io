@@ -5,11 +5,7 @@
     <link>https://victoriahfan.github.io/</link>
     <description>Recent content on Victoria H. Fan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://victoriahfan.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://victoriahfan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://victoriahfan.github.io/#about/</link>
